@@ -1,0 +1,3 @@
+D:\.NET Core 6 EF\ProjectTest1\QR Code Scanner\QR Code Scanner\bin\Release\net6.0-android\publish\com.companyname.qr_code_scanner-Signed.aab
+D:\.NET Core 6 EF\ProjectTest1\QR Code Scanner\QR Code Scanner\bin\Release\net6.0-android\publish\com.companyname.qr_code_scanner.aab
+D:\.NET Core 6 EF\ProjectTest1\QR Code Scanner\QR Code Scanner\bin\Release\net6.0-android\publish\com.companyname.qr_code_scanner-Signed.apk
